@@ -69,6 +69,8 @@ body
     margin-left: 50%;
     margin-right: 100px;
     color: #ffffff;
+    background-color: #306844;
+    padding: 10px;
     font-size: 3vw;
     z-index: 9;
 }
@@ -79,6 +81,8 @@ body
     margin-left: 50%;
     margin-right: 100px;
     color: #ffffff;
+    background-color: #306844;
+    padding: 10px;
     line-height: 1.2;
     font-size: 1.5vw;
     z-index: 9;
@@ -280,6 +284,8 @@ body
     margin-left: 10%;
     margin-right: -200px;
     color: #ffffff;
+    background-color: #306844;
+    padding: 10px;
     font-size: 5vw;
     z-index: 9;
 }
@@ -290,6 +296,8 @@ body
     margin-left: 10%;
     margin-right: -250px;
     color: #ffffff;
+    background-color: #306844;
+    padding: 10px;
     line-height: 1.2;
     font-size: 4vw;
     z-index: 9;
