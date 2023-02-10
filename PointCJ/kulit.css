@@ -290,37 +290,66 @@ body
     position: relative;
     padding: 100px;
 }
-.maincandi img
+.maincandi #candiimg2
 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: auto;
-    width: 10px;
-    border-radius: 20px;
-    align-content: center;
-    align-items: center;
+  position: absolute;
+  border-radius: 20px;
+  top: 100px;
+  right: 10%;
+  height: 200px;
+
+}
+.maincandi #candiimg3
+{
+    
+  position: absolute;
+  border-radius: 20px;
+  top: 485px;
+  left: 10%;
+  height: 300px;
 
 }
 .maincandi h1
 {
-
+  color: #ffffff;
+  font-size: 5vw;
+  z-index: 9;
+}
+.maincandi #wan
+{
     color: #ffffff;
-    font-size: 8vw;
+    line-height: 1.2;
+    font-size: 3w;
     z-index: 9;
 }
-.maincandi p
+
+.maincandi #two
 {
     color: #ffffff;
     line-height: 1.2;
-    align-items: center;
-    font-size: 6vw;
+    font-size: 3vw;
+    z-index: 9;
 }
+
+.maincandi #tri
+{
+    color: #ffffff;
+    line-height: 1.2;
+    font-size: 3vw;
+    z-index: 9;
+}
+
+
 .maincandi #tu
 {
+  position: absolute;
+    margin-top: 70%;
+    margin-left: 10%;
+    margin-right: -225px;
     color: #ffffff;
     line-height: 1.2;
-    font-size: 5vw;
+    font-size: 2vw;
+    z-index: 9;
 }
 .TaLet
 {
@@ -360,7 +389,7 @@ body
 .TaCar
 {
     position: relative;
-    top: 155vh;
+    top: 100vh;
     padding: 100px;
 }
 .TaCar img
