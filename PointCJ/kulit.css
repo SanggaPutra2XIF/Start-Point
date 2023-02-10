@@ -405,7 +405,7 @@ body
 .TaCar
 {
     position: relative;
-    top: 100vh;
+    top: 45vh;
     padding: 100px;
 }
 .TaCar img
@@ -438,7 +438,7 @@ body
 }
 .footer-clean {
     position: absolute;
-    top: 600vh;
+    top: 700vh;
     width: 720px;
     height: fit-content;
     padding:50px 0;
