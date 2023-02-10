@@ -83,17 +83,7 @@ body
     font-size: 1.5vw;
     z-index: 9;
 }
-.petya #tu
-{
-    position: absolute;
-    margin-top: 30%;
-    margin-left: 50%;
-    margin-right: 100px;
-    color: #ffffff;
-    line-height: 1.2;
-    font-size: 1vw;
-    z-index: 9;
-}
+
 .where
 {
     position: relative;
@@ -286,7 +276,7 @@ body
 .petya h1
 {
     position: absolute;
-    margin-top: 1%;
+    margin-top: 30%;
     margin-left: 85%;
     margin-right: -200px;
     color: #ffffff;
@@ -296,55 +286,13 @@ body
 .petya #wan
 {
     position: absolute;
-    margin-top: 15%;
+    margin-top: 45%;
     margin-left: 85%;
     margin-right: -250px;
     color: #ffffff;
     line-height: 1.2;
     font-size: 4vw;
     z-index: 9;
-}
-.petya #tu
-{
-    position: absolute;
-    margin-top: 90%;
-    margin-left: 85%;
-    margin-right: -225px;
-    color: #ffffff;
-    line-height: 1.2;
-    font-size: 3vw;
-    z-index: 9;
-}
-.where
-{
-    position: relative;
-    width: 500px;
-    height: 55vh;
-    padding: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.where h1
-{
-    position: absolute;
-    text-align: center;
-    left: 50%;
-    bottom: -100px;
-    color: #fff;
-    font-size: 8vw;
-    z-index: 9;
-}
-.operlay
-{
-    display: flex;
-    position: absolute;
-    top: 550px;
-    margin-left: 45%;
-}
-.operlay img
-{
-    height: 400px; 
 }
 .TaLet
 {
