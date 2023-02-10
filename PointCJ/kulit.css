@@ -241,6 +241,43 @@ body
     text-align: center;
     z-index: 9;
 }
+.maincandi
+{
+    position: relative;
+    padding: 100px;
+}
+.maincandi img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 50%;
+    border-radius: 20px;
+    align-content: center;
+    align-items: center;
+
+}
+.maincandi h1
+{
+
+    color: #ffffff;
+    font-size: 3vw;
+    z-index: 9;
+}
+.maincandi p
+{
+    color: #ffffff;
+    line-height: 1.2;
+    align-items: center;
+    font-size: 1.5vw;
+}
+.maincandi #tu
+{
+    color: #ffffff;
+    line-height: 1.2;
+    font-size: 1vw;
+}
 .TaLet
 {
     position: relative;
@@ -312,7 +349,7 @@ body
 }
 .footer-clean {
     position: absolute;
-    top: 600vh;
+    top: 500vh;
     width: 720px;
     height: fit-content;
     padding:50px 0;
