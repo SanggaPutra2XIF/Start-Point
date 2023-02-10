@@ -296,7 +296,7 @@ body
   border-radius: 20px;
   top: 100px;
   right: 10%;
-  height: 200px;
+  height: 300px;
 
 }
 .maincandi #candiimg3
@@ -405,7 +405,7 @@ body
 .TaCar
 {
     position: relative;
-    top: 155vh;
+    top: 100vh;
     padding: 100px;
 }
 .TaCar img
@@ -438,7 +438,7 @@ body
 }
 .footer-clean {
     position: absolute;
-    top: 500vh;
+    top: 600vh;
     width: 720px;
     height: fit-content;
     padding:50px 0;
