@@ -66,7 +66,7 @@ body
 }
 .maincandi #candiimg3
 {
-    
+
   position: absolute;
   border-radius: 20px;
   top: 485px;
@@ -119,8 +119,6 @@ body
     font-size: 1.5vw;
     z-index: 9;
 }
-
-
 .maincandi #tu
 {
   position: absolute;
@@ -236,7 +234,6 @@ body
   .footer-clean .item.social {
     text-align:right;
   }
-
   
   .footer-clean .item.social > a {
     font-size:24px;
@@ -290,66 +287,35 @@ body
     position: relative;
     padding: 100px;
 }
-.maincandi #candiimg2
+.maincandi img
 {
-  position: absolute;
-  border-radius: 20px;
-  top: 100px;
-  right: 10%;
-  height: 200px;
-
-}
-.maincandi #candiimg3
-{
-    
-  position: absolute;
-  border-radius: 20px;
-  top: 485px;
-  left: 10%;
-  height: 300px;
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 10px;
+    border-radius: 20px;
+    align-content: center;
+    align-items: center;
 }
 .maincandi h1
 {
-  color: #ffffff;
-  font-size: 5vw;
-  z-index: 9;
+    color: #ffffff;
+    font-size: 8vw;
+    z-index: 9;
 }
-.maincandi #wan
+.maincandi p
 {
     color: #ffffff;
     line-height: 1.2;
-    font-size: 3w;
-    z-index: 9;
+    align-items: center;
+    font-size: 6vw;
 }
-
-.maincandi #two
-{
-    color: #ffffff;
-    line-height: 1.2;
-    font-size: 3vw;
-    z-index: 9;
-}
-
-.maincandi #tri
-{
-    color: #ffffff;
-    line-height: 1.2;
-    font-size: 3vw;
-    z-index: 9;
-}
-
-
 .maincandi #tu
 {
-  position: absolute;
-    margin-top: 70%;
-    margin-left: 10%;
-    margin-right: -225px;
     color: #ffffff;
     line-height: 1.2;
-    font-size: 2vw;
-    z-index: 9;
+    font-size: 5vw;
 }
 .TaLet
 {
@@ -389,7 +355,7 @@ body
 .TaCar
 {
     position: relative;
-    top: 100vh;
+    top: 155vh;
     padding: 100px;
 }
 .TaCar img
@@ -437,7 +403,6 @@ body
     font-weight:bold;
     font-size:16px;
   }
-
   .footer-clean #tim {
     
     display: flex;
