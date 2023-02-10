@@ -55,42 +55,87 @@ body
     position: relative;
     padding: 100px;
 }
-.maincandi img
+.maincandi #candiimg2
 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: auto;
-    width: 50%;
-    border-radius: 20px;
-    align-content: center;
-    align-items: center;
+  position: absolute;
+  border-radius: 20px;
+  top: 100px;
+  right: 10%;
+  height: 200px;
+
+}
+.maincandi #candiimg3
+{
+    
+  position: absolute;
+  border-radius: 20px;
+  top: 485px;
+  left: 10%;
+  height: 300px;
 
 }
 .maincandi h1
 {
-
-    color: #ffffff;
-    font-size: 3vw;
-    z-index: 9;
+  position: absolute;
+  margin-top: 1%;
+  margin-left: 2%;
+  margin-right: 2%;
+  color: #ffffff;
+  font-size: 3vw;
+  z-index: 9;
 }
-.maincandi p
+.maincandi #wan
 {
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 2%;
+    margin-right: 10%;
     color: #ffffff;
     line-height: 1.2;
-    align-items: center;
     font-size: 1.5vw;
+    z-index: 9;
 }
+
+.maincandi #two
+{
+    position: absolute;
+    margin-top: 23%;
+    margin-left: 45%;
+    margin-right: 10%;
+    color: #ffffff;
+    line-height: 1.2;
+    font-size: 1.5vw;
+    z-index: 9;
+}
+
+.maincandi #tri
+{
+    position: absolute;
+    margin-top: 55%;
+    margin-left: 2%;
+    margin-right: 10%;
+    color: #ffffff;
+    line-height: 1.2;
+    font-size: 1.5vw;
+    z-index: 9;
+}
+
+
 .maincandi #tu
 {
+  position: absolute;
+    margin-top: 70%;
+    margin-left: 10%;
+    margin-right: -225px;
     color: #ffffff;
     line-height: 1.2;
     font-size: 1vw;
+    z-index: 9;
 }
 .TaLet
 {
     position: relative;
-    Top: 10px;
+    Top: 70vw;
 }
 .TaLet img
 {
@@ -124,7 +169,7 @@ body
 .TaCar
 {
     position: relative;
-    top: 75vh;
+    top: 200vh;
     padding: 100px;
 }
 .TaCar img
@@ -156,7 +201,7 @@ body
 }
 .footer-clean {
     position: absolute;
-    top: 550vh;
+    top: 450vh;
     width: 100%;
     padding:50px 0;
     background-color:#306844;
@@ -243,7 +288,7 @@ body
 .maincandi
 {
     position: relative;
-    padding: 10px;
+    padding: 100px;
 }
 .maincandi img
 {
@@ -251,7 +296,7 @@ body
     margin-left: auto;
     margin-right: auto;
     height: auto;
-    width: 100px;
+    width: 10px;
     border-radius: 20px;
     align-content: center;
     align-items: center;
