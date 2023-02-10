@@ -2,7 +2,6 @@
 *
 {
     margin: 0;
-    zoom: 100%;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Itim', sans-serif;
@@ -244,15 +243,13 @@ body
 .maincandi
 {
     position: relative;
-    padding: 100px;
+    padding: 10px;
 }
 .maincandi img
 {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     height: auto;
-    width: 800px;
+    width: 300px;
     border-radius: 20px;
     align-content: center;
     align-items: center;
@@ -262,7 +259,7 @@ body
 {
 
     color: #ffffff;
-    font-size: 15vw;
+    font-size: 8vw;
     z-index: 9;
 }
 .maincandi p
@@ -270,13 +267,13 @@ body
     color: #ffffff;
     line-height: 1.2;
     align-items: center;
-    font-size: 9vw;
+    font-size: 6vw;
 }
 .maincandi #tu
 {
     color: #ffffff;
     line-height: 1.2;
-    font-size: 7vw;
+    font-size: 5vw;
 }
 .TaLet
 {
