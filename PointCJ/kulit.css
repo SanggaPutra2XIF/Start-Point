@@ -57,7 +57,7 @@ body
 }
 .maincandi #candiimg2
 {
-  position: absolute;
+
   border-radius: 20px;
   top: 100px;
   right: 10%;
@@ -67,7 +67,6 @@ body
 .maincandi #candiimg3
 {
 
-  position: absolute;
   border-radius: 20px;
   top: 485px;
   left: 10%;
@@ -76,20 +75,13 @@ body
 }
 .maincandi h1
 {
-  position: absolute;
-  margin-top: 1%;
-  margin-left: 2%;
-  margin-right: 2%;
+
   color: #ffffff;
   font-size: 3vw;
   z-index: 9;
 }
 .maincandi #wan
 {
-    position: absolute;
-    margin-top: 15%;
-    margin-left: 2%;
-    margin-right: 10%;
     color: #ffffff;
     line-height: 1.2;
     font-size: 1.5vw;
@@ -98,10 +90,7 @@ body
 
 .maincandi #two
 {
-    position: absolute;
-    margin-top: 23%;
-    margin-left: 45%;
-    margin-right: 10%;
+
     color: #ffffff;
     line-height: 1.2;
     font-size: 1.5vw;
@@ -110,10 +99,7 @@ body
 
 .maincandi #tri
 {
-    position: absolute;
-    margin-top: 55%;
-    margin-left: 2%;
-    margin-right: 10%;
+ 
     color: #ffffff;
     line-height: 1.2;
     font-size: 1.5vw;
@@ -121,10 +107,7 @@ body
 }
 .maincandi #tu
 {
-  position: absolute;
-    margin-top: 70%;
-    margin-left: 10%;
-    margin-right: -225px;
+
     color: #ffffff;
     line-height: 1.2;
     font-size: 1vw;
